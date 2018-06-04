@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "856300348119",
+    "firebase_url": "https://dbprac-eb297.firebaseio.com",
+    "project_id": "dbprac-eb297",
+    "storage_bucket": "dbprac-eb297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856300348119:android:68da0fa735dd6650",
+        "android_client_info": {
+          "package_name": "auto_wiki.glover.company.com.db_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856300348119-s807hotuolfp7ocs2ofgvv3rljfr5d8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "auto_wiki.glover.company.com.db_prac",
+            "certificate_hash": "60802cdb8ebf85aff3368a657355d940e4baf9c8"
+          }
+        },
+        {
+          "client_id": "856300348119-po2oodneo13u46brve5nqm9n3ki3v69p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "856300348119-po2oodneo13u46brve5nqm9n3ki3v69p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gnncOvTClT7ll7DueHZgKMPtqbaji18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856300348119-po2oodneo13u46brve5nqm9n3ki3v69p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
